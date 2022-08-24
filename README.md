@@ -15,7 +15,7 @@ a) <b>/users/signup:</b> (POST Request) It is used for the registration of the u
 </ul>
 
 b) <b>/users/signin:</b> (POST Request) It is used to login by taking username and password and generating the bearer token.<br><br>
-c) <b>/transactions/view:</b> (GET Request) It is used to view all the details of the current logged in user. Following informations are displayed:<br>
+c) <b>/users/view:</b> (GET Request) It is used to view all the details of the current logged in user. Following informations are displayed:<br>
   
 <ul>
   <li>username</li>
